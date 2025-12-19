@@ -22,4 +22,4 @@ Check out the live project here:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/newbiestart/night-clock.git](https://github.com/newbiestart/night-clock.git)
+   git clone [https://github.com/newbiestart/night-clock.git]
